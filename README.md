@@ -29,10 +29,10 @@ Python,Flask,PeeWee,GPT4
 飲みすぎ防止のための杯数表示と飲んだお酒の記録<br>
 
 <p align="center">
-  <img src="./Choroyoi/images/login.png" alt="Image 11" width="150">
-  <img src="./Choroyoi/images/home.png" alt="Image 12" width="150">
-  <img src="./Choroyoi/images/photo.png" alt="Image 13" width="150">
-  <img src="./Choroyoi/images/extract.png" alt="Image 14" width="150">
+  <img src="./Choroyoi/images/home.png" alt="Image 12" height="300">
+  <img src="./Choroyoi/images/photo.png" alt="Image 13" height="300">
+  <img src="./Choroyoi/images/extract.png" alt="Image 14" height="300">
+  <img src="./Choroyoi/images/result.png" alt="Image 15" height="300">
 </p>
 ・担当<br>
 主にフロントエンド<br>
