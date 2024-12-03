@@ -99,6 +99,11 @@ C#,Unity,PUN2,Blender
 
 少数ですが何人かTwitterで共有してくれました<br>
 
+<p align="center">
+  <img src="./Game/DiceMahjong/twitter_1.png" alt="Image 234" height="90">
+  <img src="./Game/DiceMahjong/twitter_2.png" alt="Image 235" height="90">
+</p>
+
 ## 研究
 ・概要<br>
 アバターロボットと呼ばれる遠隔操作分身ロボットを用いた接客は場所を問わない点や衛生面で魅力的<br>
