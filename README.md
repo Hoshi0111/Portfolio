@@ -46,11 +46,18 @@ TypeScript,ReactNative,firebase
 C#,Unity,Blender
 ### オンラインFPS
 ・概要<br>
+複数人のオンラインで遊べるFPSゲーム<br>
+ワールドは作成者の高校の教室を再現<br>
 ### 対戦型パズルゲーム
 ・概要<br>
+二人対戦型のパズルゲームの再現<br>
+オンライン対戦とローカル対戦が可能<br>
+[ここ](https://unityroom.com/games/link_slider)をクリックして遊ぶ
 ### ミニゲーム
 ・概要<br>
-
+１人用の暇つぶしゲーム<br>
+ボタンをクリックするだけで遊べる<br>
+[ここ](https://unityroom.com/games/dice_mahjong)をクリックして遊ぶ
 ## 研究
 ・概要<br>
 アバターロボットと呼ばれる遠隔操作分身ロボットを用いた接客は場所を問わない点や衛生面で魅力的<br>
@@ -59,8 +66,8 @@ C#,Unity,Blender
 ワーカーインタビューを通じて丁寧な口調がストレスを感じにくい可能性<br>
 顧客の音声を丁寧な印象のテキストに変換するシステムを考案<br>
 <p align="center">
-  <img src="./Research/images/research_aproach.png" alt="Image 32" height="300">
-  <img src="./Research/images/system_overview.png" alt="Image 31" height="300">
+  <img src="./Research/images/research_aproach.png" alt="Image 32" height="100">
+  <img src="./Research/images/system_overview.png" alt="Image 31" height="200">
 </p>
 ・使用ツール<br>
 Python,ROS,Whisper(OpenAI),GPT4o
