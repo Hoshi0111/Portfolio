@@ -17,7 +17,7 @@ _Healthcare Empowerment through AI Linguistic_<br>
 主にバックエンド<br>
 DB処理・API実装・LLM接続<br>
 ・使用ツール<br>
-Python,Flask,PeeWee,GPT4
+Python,Flask,PeeWee,OpenAIAPI
 
 ## ちょろよい
 ５人チームでのプロトタイプアプリ開発<br>
@@ -53,7 +53,11 @@ C#,Unity,Blender
 
 ## 研究
 ・概要<br>
-アバターロボット接客
+アバターロボットと呼ばれる遠隔操作分身ロボットを用いた接客は場所を問わない点や衛生面で魅力的<br>
+これを用いたカスタマーハラスメント対策システムを提案する<br>
+・手法<br>
+ワーカーインタビューを通じて丁寧な口調がストレスを感じにくい可能性<br>
+顧客の音声を丁寧な印象のテキストに変換するシステムを考案<br>
 <p align="center">
   <img src="./Research/images/system_overview.png" alt="Image 31" height="300">
   <img src="./Research/images/system_aproach.png" alt="Image 32" height="300">
@@ -65,6 +69,14 @@ Python,ROS,Whisper(OpenAI),GPT4o
 
 ## 夏季インターン
 ### LLMを用いたWebアプリ
-・概要
+４人チームでのアプリ開発<br>
+・担当<br>
+バックエンド<br>
+DB設計・機能設計・LLM処理<br>
+・使用ツール<br>
+python,FastAPI,mySQL,OpenAIAPI,BingSearchAPI,langchain
 ### 経路探索APIを利用したWebアプリ
+２人チームでのフロントエンドアプリ開発<br>
+・使用ツール<br>
+JavaScript,Vue
 
