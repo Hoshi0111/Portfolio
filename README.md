@@ -2,6 +2,8 @@
 
 ## 自己紹介
 **西田星翔**<br>
+にしだほしと<br>
+<br>
 好きなこと<br>
 ・野球観戦　父の影響で幼少期から阪神ファンです。<br>
 ・ゲーム　友人とFPSをよくやります。野球ゲームが大好きです。シミュレーションゲームも好きです。<br>
@@ -10,7 +12,7 @@
 ・卓球　高校は卓球部でした。ひたすらフットワークをやってました。<br>
 
 ## HEAL
-５人チームでのプロトタイプアプリ開発<br>
+５人チームでのWebアプリのプロトタイプ開発<br>
 ・概要<br>
 _Healthcare Empowerment through AI Linguistic_<br>
 留学生などが自国以外で診療を受ける際、医師の質問や治療の説明をよく理解できない不安を解消するための診療補助システム<br>
@@ -33,7 +35,7 @@ DB処理・API実装・LLM接続<br>
 Python,Flask,SQLite,OpenAIAPI
 
 ## ちょろよい
-５人チームでのプロトタイプアプリ開発<br>
+５人チームでのモバイルアプリのプロトタイプ開発<br>
 ・概要<br>
 お酒があまり得意ではない人向けの飲み会支援アプリ<br>
 ・機能<br>
@@ -87,13 +89,15 @@ C#,Unity,PUN2,Blender
 ・概要<br>
 １人用の暇つぶしゲーム<br>
 ボタンをクリックするだけで遊べる<br>
-[ここ](https://unityroom.com/games/dice_mahjong)をクリックして遊ぶ
+[ここ](https://unityroom.com/games/dice_mahjong)をクリックして遊ぶ<br>
 
 <p align="center">
   <img src="./Game/DiceMahjong/title_dcmj.png" alt="Image 231" height="150">
   <img src="./Game/DiceMahjong/dice_dcmj.png" alt="Image 232" height="150">
   <img src="./Game/DiceMahjong/result_dcmj.png" alt="Image 233" height="150">
 </p>
+
+少数ですが何人かTwitterで共有してくれました<br>
 
 ## 研究
 ・概要<br>
