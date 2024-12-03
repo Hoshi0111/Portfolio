@@ -1,5 +1,9 @@
 # Portfolio
 
+## 自己紹介
+西田星翔<br>
+
+
 ## HEAL
 ５人チームでのプロトタイプアプリ開発<br>
 ・概要<br>
@@ -17,7 +21,7 @@ _Healthcare Empowerment through AI Linguistic_<br>
 主にバックエンド<br>
 DB処理・API実装・LLM接続<br>
 ・使用ツール<br>
-Python,Flask,PeeWee,OpenAIAPI
+Python,Flask,SQLite,OpenAIAPI
 
 ## ちょろよい
 ５人チームでのプロトタイプアプリ開発<br>
@@ -36,7 +40,7 @@ Python,Flask,PeeWee,OpenAIAPI
 </p>
 ・担当<br>
 主にフロントエンド<br>
-画面遷移・テキスト処理・ログイン機能・DB処理<br>
+画面遷移・テキスト処理・ログイン機能・全体デバッグ<br>
 ・使用ツール<br>
 TypeScript,ReactNative,firebase
 
@@ -52,9 +56,9 @@ C#,Unity,Blender
 ワールドは作成者の高校の教室を再現<br>
 
 <p align="center">
-  <img src="./Game/FPS/screen1_fps.png" alt="Image 211" height="150">
-  <img src="./Game/FPS/screen2_fps.png" alt="Image 212" height="150">
-  <img src="./Game/FPS/screen3_fps.png" alt="Image 213" height="150">
+  <img src="./Game/FPS/screen1_fps.png" alt="Image 211" height="120">
+  <img src="./Game/FPS/screen2_fps.png" alt="Image 212" height="120">
+  <img src="./Game/FPS/screen3_fps.png" alt="Image 213" height="120">
 </p>
 
 ### 対戦型パズルゲーム
