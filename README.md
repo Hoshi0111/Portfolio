@@ -1,8 +1,13 @@
 # Portfolio
 
 ## 自己紹介
-西田星翔<br>
-
+**西田星翔**<br>
+好きなこと<br>
+・野球観戦　父の影響で幼少期から阪神ファンです。<br>
+・ゲーム　友人とFPSをよくやります。野球ゲームが大好きです。シミュレーションゲームも好きです。<br>
+・ボードゲーム　将棋が結構得意です。麻雀も好きです。友人とBGAをたまにやります。<br>
+・パズル　アニメの影響で小学生のころドはまりしました。カックロがものすごい得意でした。<br>
+・卓球　高校は卓球部でした。ひたすらフットワークをやってました。<br>
 
 ## HEAL
 ５人チームでのプロトタイプアプリ開発<br>
@@ -11,7 +16,11 @@ _Healthcare Empowerment through AI Linguistic_<br>
 留学生などが自国以外で診療を受ける際、医師の質問や治療の説明をよく理解できない不安を解消するための診療補助システム<br>
 ・機能<br>
 問診、診察チャットをそれぞれの母国語に変換<br>
-医療用語をAIが判別し、医療用語データベースから解説を提示<br>
+診察時には医療用語をAIが判別し、医療用語データベースから解説を提示、データベースになければ解説をAIが自動で生成<br>
+・工夫点<br>
+covid-19やcorona,covidなど同義で複数の言い方があるものを統一するために同義語テーブルを作成<br>
+医療用語データベースの内容は医者が書き換え可能で、医者の承認があるかどうか判別可能に<br>
+
 <p align="center">
   <img src="./HEAL/images/patient_1.png" alt="Image 01" width="200">
   <img src="./HEAL/images/patient_2.png" alt="Image 02" width="200">
@@ -31,6 +40,8 @@ Python,Flask,SQLite,OpenAIAPI
 メニュー表の写真から商品名を抽出<br>
 アンケートから気分を入力しお酒を提案<br>
 飲みすぎ防止のための杯数表示と飲んだお酒の記録<br>
+・工夫点<br>
+お品書きにあるお酒のテキストをタップすると、そのお酒を注文するかどうか選択でき、長押しするとお酒の詳細が表示される<br>
 
 <p align="center">
   <img src="./Choroyoi/images/home.png" alt="Image 12" height="300">
@@ -47,7 +58,7 @@ TypeScript,ReactNative,firebase
 ## ゲーム
 個人開発<br>
 ・使用ツール<br>
-C#,Unity,Blender
+C#,Unity,PUN2,Blender
 ### オンラインFPS
 ・概要<br>
 複数人のオンラインで遊べるFPSゲーム<br>
