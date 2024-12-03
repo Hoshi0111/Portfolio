@@ -50,6 +50,13 @@ C#,Unity,Blender
 弾を当てれば点数が増え、当たられたらＨＰが減るだけの単純な内容
 （ＨＰが０になれば派手に爆散します）<br>
 ワールドは作成者の高校の教室を再現<br>
+
+<p align="center">
+  <img src="./Game/FPS/screen1_fps.png" alt="Image 211" height="150">
+  <img src="./Game/FPS/screen2_fps.png" alt="Image 212" height="150">
+  <img src="./Game/FPS/screen3_fps.png" alt="Image 213" height="150">
+</p>
+
 ### 対戦型パズルゲーム
 ・概要<br>
 二人対戦型のパズルゲームの再現<br>
@@ -57,7 +64,7 @@ C#,Unity,Blender
 [ここ](https://unityroom.com/games/link_slider)をクリックして遊ぶ
 
 <p align="center">
-  <img src="./Game/LinkSlider/title_LS.png" alt="Image 212" height="150">
+  <img src="./Game/LinkSlider/title_LS.png" alt="Image 221" height="150">
   <img src="./Game/LinkSlider/game_LS.png" alt="Image 222" height="150">
 </p>
 
