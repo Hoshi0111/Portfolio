@@ -55,16 +55,21 @@ C#,Unity,Blender
 二人対戦型のパズルゲームの再現<br>
 オンライン対戦とローカル対戦が可能<br>
 [ここ](https://unityroom.com/games/link_slider)をクリックして遊ぶ
+<p align="center">
+  <img src="./Game/LinkSlider/title_LS.png" alt="Image 212" height="150">
+  <img src="./Game/LinkSlider/game_LS.png" alt="Image 222" height="150">
+</p>
 ### ミニゲーム
 ・概要<br>
 １人用の暇つぶしゲーム<br>
 ボタンをクリックするだけで遊べる<br>
 [ここ](https://unityroom.com/games/dice_mahjong)をクリックして遊ぶ
 <p align="center">
-  <img src="./Game/DiceMahjong/title_dcmj.png" alt="Image 32" height="80">
-  <img src="./Game/DiceMahjong/dice_dcmj.png" alt="Image 32" height="80">
-  <img src="./Game/DiceMahjong/result_dcmj.png" alt="Image 32" height="80">
+  <img src="./Game/DiceMahjong/title_dcmj.png" alt="Image 231" height="150">
+  <img src="./Game/DiceMahjong/dice_dcmj.png" alt="Image 232" height="150">
+  <img src="./Game/DiceMahjong/result_dcmj.png" alt="Image 233" height="150">
 </p>
+
 ## 研究
 ・概要<br>
 アバターロボットと呼ばれる遠隔操作分身ロボットを用いた接客は場所を問わない点や衛生面で魅力的<br>
