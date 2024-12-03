@@ -47,6 +47,8 @@ C#,Unity,Blender
 ### オンラインFPS
 ・概要<br>
 複数人のオンラインで遊べるFPSゲーム<br>
+弾を当てれば点数が増え、当たられたらＨＰが減るだけの単純な内容
+（ＨＰが０になれば派手に爆散します）<br>
 ワールドは作成者の高校の教室を再現<br>
 ### 対戦型パズルゲーム
 ・概要<br>
@@ -58,6 +60,11 @@ C#,Unity,Blender
 １人用の暇つぶしゲーム<br>
 ボタンをクリックするだけで遊べる<br>
 [ここ](https://unityroom.com/games/dice_mahjong)をクリックして遊ぶ
+<p align="center">
+  <img src="./Game/DiceMahjong/title_dcmj.png" alt="Image 32" height="80">
+  <img src="./Game/DiceMahjong/dice_dcmj.png" alt="Image 32" height="80">
+  <img src="./Game/DiceMahjong/result_dcmj.png" alt="Image 32" height="80">
+</p>
 ## 研究
 ・概要<br>
 アバターロボットと呼ばれる遠隔操作分身ロボットを用いた接客は場所を問わない点や衛生面で魅力的<br>
