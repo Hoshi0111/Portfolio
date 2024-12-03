@@ -54,11 +54,17 @@ C#,Unity,Blender
 ## 研究
 ・概要<br>
 アバターロボット接客
+<p align="center">
+  <img src="./Research/images/system_overview.png" alt="Image 31" height="300">
+  <img src="./Research/images/system_aproach.png" alt="Image 32" height="300">
+</p>
+
 ![システム図](/Research/system_overview.png)
 ・使用ツール<br>
 Python,ROS,Whisper(OpenAI),GPT4o
 
 ## 夏季インターン
 ### LLMを用いたWebアプリ
+・概要
 ### 経路探索APIを利用したWebアプリ
 
