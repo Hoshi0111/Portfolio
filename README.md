@@ -100,8 +100,8 @@ C#,Unity,PUN2,Blender
 少数ですが何人かTwitterで共有してくれました<br>
 
 <p align="center">
-  <img src="./Game/DiceMahjong/twitter_1.png" alt="Image 234" height="90">
-  <img src="./Game/DiceMahjong/twitter_2.png" alt="Image 235" height="90">
+  <img src="./Game/DiceMahjong/twitter_1.PNG" alt="Image 234" height="100">
+  <img src="./Game/DiceMahjong/twitter_2.PNG" alt="Image 235" height="100">
 </p>
 
 ## 研究
