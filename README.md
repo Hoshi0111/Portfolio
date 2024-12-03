@@ -59,11 +59,9 @@ C#,Unity,Blender
 ワーカーインタビューを通じて丁寧な口調がストレスを感じにくい可能性<br>
 顧客の音声を丁寧な印象のテキストに変換するシステムを考案<br>
 <p align="center">
+  <img src="./Research/images/research_aproach.png" alt="Image 32" height="300">
   <img src="./Research/images/system_overview.png" alt="Image 31" height="300">
-  <img src="./Research/images/system_aproach.png" alt="Image 32" height="300">
 </p>
-
-![システム図](/Research/system_overview.png)
 ・使用ツール<br>
 Python,ROS,Whisper(OpenAI),GPT4o
 
@@ -74,7 +72,7 @@ Python,ROS,Whisper(OpenAI),GPT4o
 バックエンド<br>
 DB設計・機能設計・LLM処理<br>
 ・使用ツール<br>
-python,FastAPI,mySQL,OpenAIAPI,BingSearchAPI,langchain
+Python,FastAPI,mySQL,OpenAIAPI,BingSearchAPI,langchain
 ### 経路探索APIを利用したWebアプリ
 ２人チームでのフロントエンドアプリ開発<br>
 ・使用ツール<br>
