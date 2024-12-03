@@ -101,7 +101,8 @@ C#,Unity,PUN2,Blender
 
 <p align="center">
   <img src="./Game/DiceMahjong/twitter_1.PNG" alt="Image 234" height="100">
-  <img src="./Game/DiceMahjong/twitter_2.PNG" alt="Image 235" height="100">
+  <img src="./Game/DiceMahjong/twitter_2.PNG" alt="Image 235" height="120">
+  <img src="./Game/DiceMahjong/twitter_3.PNG" alt="Image 236" height="120">
 </p>
 
 ## 研究
