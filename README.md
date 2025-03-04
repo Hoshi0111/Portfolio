@@ -78,25 +78,42 @@ C#,Unity,PUN2,Blender
 
 ### 対戦型パズルゲーム
 ・概要<br>
-二人対戦型のパズルゲームの再現<br>
-オンライン対戦とローカル対戦が可能<br>
-[ここ](https://unityroom.com/games/link_slider)をクリックして遊ぶ
+昔好きだったアニメに登場する二人対戦型のパズルゲームの再現<br>
+２人のプレイヤーがスライダーを乗り継ぎしながら中央のマスに先に停止した方の勝ちとなる<br>
+[ここ](https://unityroom.com/games/link_slider)をクリックして遊ぶ<br>
+・機能<br>
+1.CPUとの対戦(EASY/NORMAL/HARD/HELLの四つの難易度)<br>
+2.ローカル対戦<br>
+3.オンライン対戦(ランダムマッチ/プライベートマッチ)(時間制限あり)<br>
+・工夫点<br>
+もともとのゲームでは消極的な行動が最善となってしまう場合があるため、得点マスの機能を追加してゲームのバランスを調整。戦術の幅が広がってより面白くなった<br>
+CPUはMiniMax法のアルゴリズムを採用、より人間らしい動きをするように評価値を改善<br>
+画面遷移時やマッチング中のアニメーションを含め統一感のあるデザインに<br>
+
 
 <p align="center">
-  <img src="./Game/LinkSlider/title_LS.png" alt="Image 221" height="150">
-  <img src="./Game/LinkSlider/game_LS.png" alt="Image 222" height="150">
+  <img src="./Game/LinkSlider/LS_title.png" alt="Image 221" height="150">
+  <img src="./Game/LinkSlider/LS_game.png" alt="Image 222" height="150">
+  <img src="./Game/LinkSlider/LS_end.png" alt="Image 223" height="150">
+  <img src="./Game/LinkSlider/LS_online.png" alt="Image 224" height="150">
 </p>
 
 ### ミニゲーム
 ・概要<br>
-１人用の暇つぶしゲーム<br>
+１４個のサイコロを振って役を作る１人用の暇つぶしゲーム<br>
 ボタンをクリックするだけで遊べる<br>
 [ここ](https://unityroom.com/games/dice_mahjong)をクリックして遊ぶ<br>
+・機能<br>
+サイコロの出た目を取得し役判定を行う<br>
+今までに出た役は保持され一覧として表示<br>
+・工夫点<br>
+100万回のシミュレーションを行ってレア度を設定<br>
 
 <p align="center">
-  <img src="./Game/DiceMahjong/title_dcmj.png" alt="Image 231" height="150">
-  <img src="./Game/DiceMahjong/dice_dcmj.png" alt="Image 232" height="150">
-  <img src="./Game/DiceMahjong/result_dcmj.png" alt="Image 233" height="150">
+  <img src="./Game/DiceMahjong/DM_title.png" alt="Image 231" height="150">
+  <img src="./Game/DiceMahjong/DM_game.png" alt="Image 232" height="150">
+  <img src="./Game/DiceMahjong/DM_end.png" alt="Image 233" height="150">
+  <img src="./Game/DiceMahjong/DM_result.png" alt="Image 234" height="150">
 </p>
 
 少数ですが何人かTwitterで共有してくれました<br>
