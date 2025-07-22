@@ -76,9 +76,9 @@ C#,Unity<br>
 インゲームシステム<br>
 
 <p align="center">
-  <img src="./Game/Tsuchinoko/Tsu_play_image1" alt="Image 211" height="180">
-  <img src="./Game/Tsuchinoko/Tsu_play_image2" alt="Image 212" height="180">
-  <img src="./Game/Tsuchinoko/Tsu_end_image" alt="Image 213" height="180">
+  <img src="./Game/Tsuchinoko/Tsu_play_image1.jpg" alt="Image 211" height="300">
+  <img src="./Game/Tsuchinoko/Tsu_play_image2.jpg" alt="Image 212" height="300">
+  <img src="./Game/Tsuchinoko/Tsu_end_image.jpg" alt="Image 213" height="300">
 </p>
 
 
